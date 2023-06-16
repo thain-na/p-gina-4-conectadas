@@ -1,0 +1,23 @@
+h1 {
+  color: olive;
+}
+
+h3 {
+  color: olive;
+}
+
+img {
+  margin: 0px auto;
+  display: block;
+  border-radius: 4px;
+  width: 500px;
+  object-fit: contain;
+}
+
+body {
+  padding: 50px 50px;
+  background-color: whitesmoke;
+}
+p {
+  text-align: justify;
+}
